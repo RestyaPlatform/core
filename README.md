@@ -2,7 +2,7 @@
 
 Restya Core = Best of ( Jira + Slack + :question: ) + :question: + :hearts:
 
-Launching in 2020
+Launching soon
 
 ----
 
